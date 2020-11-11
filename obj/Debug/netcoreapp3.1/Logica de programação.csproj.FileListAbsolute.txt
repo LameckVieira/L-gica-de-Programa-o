@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\Logica de programação\bin\Debug\netcoreapp3.1\Logica de programação.exe
+C:\Users\Lameck\Desktop\Logica de programação\bin\Debug\netcoreapp3.1\Logica de programação.deps.json
+C:\Users\Lameck\Desktop\Logica de programação\bin\Debug\netcoreapp3.1\Logica de programação.runtimeconfig.json
+C:\Users\Lameck\Desktop\Logica de programação\bin\Debug\netcoreapp3.1\Logica de programação.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\Logica de programação\bin\Debug\netcoreapp3.1\Logica de programação.dll
+C:\Users\Lameck\Desktop\Logica de programação\bin\Debug\netcoreapp3.1\Logica de programação.pdb
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.dll
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.pdb
+C:\Users\Lameck\Desktop\Logica de programação\obj\Debug\netcoreapp3.1\Logica de programação.genruntimeconfig.cache
